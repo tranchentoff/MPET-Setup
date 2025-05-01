@@ -1,6 +1,6 @@
 ---
 
-📥 Guide d'installation — Menu Pratique (Édition Tranchent)
+## 📥 Guide d'installation — Menu Pratique (Édition Tranchent)
 
 ## ⚡ Qu’est-ce que c’est ?
 
